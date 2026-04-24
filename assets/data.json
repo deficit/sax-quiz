@@ -1,0 +1,28 @@
+{
+  "cards": [
+    {
+      "id": "Bb",
+      "name": "Bb",
+      "fingering_img": "../assets/cards/Bb_fingering.png",
+      "notation_img": "../assets/cards/Bb_notation.png"
+    },
+    {
+      "id": "B",
+      "name": "B",
+      "fingering_img": "../assets/cards/B_fingering.png",
+      "notation_img": "../assets/cards/B_notation.png"
+    },
+    {
+      "id": "C",
+      "name": "C",
+      "fingering_img": "../assets/cards/C_fingering.png",
+      "notation_img": "../assets/cards/C_notation.png"
+    },
+    {
+      "id": "Db",
+      "name": "Db",
+      "fingering_img": "../assets/cards/Db_fingering.png",
+      "notation_img": "../assets/cards/Db_notation.png"
+    }
+  ]
+}

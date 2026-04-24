@@ -39,3 +39,6 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+
+# raw asset sources (large files)
+assets/fingerings_raw/
